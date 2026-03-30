@@ -1,0 +1,9 @@
+streamlit==1.42.2
+scikit-learn
+pandas
+matplotlib
+numpy
+plotly
+passlib
+bcrypt
+google-generativeai

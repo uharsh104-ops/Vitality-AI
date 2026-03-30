@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+health_assistant.db
+
+# Machine Learning Models
+*.pkl
+base_health_model.pkl
+
+# Streamlit config (optional)
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
